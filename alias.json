@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "command_name": "PS",
     "original_author": "",
-    "repo_url": "https://github.com/sliverarmory/KrbRelayUp",
+    "repo_url": "https://github.com/MrAle98/PS",
     "help": "assembly for running powershell commands and import powershell scripts into an unmanaged runspace. To use with execute-assembly --in-process.",
 
     "entrypoint": "Main",
