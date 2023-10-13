@@ -11,6 +11,7 @@ public class Program
     {
         try
         {
+            runspace.ThreadOptions = PSThreadOptions.UseCurrentThread;
             Program.runspace.Open();
         }
         catch (InvalidRunspaceStateException)
